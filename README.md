@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me taplink.cc/ds.kenzhebaev
+- 📫 How to reach me www.taplink.cc/ds.kenzhebaev
 
 <!---
 ds-kg/ds-kg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
